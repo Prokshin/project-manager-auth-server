@@ -1,0 +1,18 @@
+{
+  "name": "project_manager_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "busboy": "^0.3.1",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}
